@@ -24,7 +24,7 @@ const imageAltText = "A Background Image of Ai";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  ""As a computer operator at an NGO for two years, I gained valuable skills in desktop publishing and graphics design, and I also taught these skills to others. My current goal is to become an ML and AI Engineer/Datascientist, and I am proud to be a Microsoft student Ambassador. I have a passion for finding creative solutions to problems that can lead to innovation and growth. I enjoy working with people who share this passion and I am always eager to learn new things.".";
+  "I am passionate about solving problems in new creative ways to drive innovation and growth. I am a team player and I love to work with people who are passionate about what they do. I am a fast learner and I am always open to learning new things.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
