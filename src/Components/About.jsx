@@ -24,7 +24,7 @@ const imageAltText = "A Background Image of Ai";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  ""As a computer operator at an NGO for two years, I gained valuable skills in desktop publishing and graphics design, and I also taught these skills to others. My current goal is to become an ML and AI Engineer/Datascientist, and I am proud to be a Microsoft student Ambassador. I have a passion for finding creative solutions to problems that can lead to innovation and growth. I enjoy working with people who share this passion and I am always eager to learn new things.".";
 
 /**
  * List of some of skills or technologies you work on, are learning,
